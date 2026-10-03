@@ -20,4 +20,4 @@ Published in TIJER International Journal (2024)
 ![Prototype](images/prototype.png)
 
 ## My Role
-Hardware, coding, testing
+Hardware, coding, testing.
